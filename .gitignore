@@ -1,1 +1,7 @@
-
+node_modules
+.vscode
+.env
+AppData
+.DS_Store
+dist
+build
